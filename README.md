@@ -31,10 +31,10 @@ pontos = PONTUACAO_BASE - (tentativas - 1) * PENALIDADE_POR_TENTATIVA
 - **🧱 Estrutura do projeto**
 
 projeto_04_sistema_jogo_adivinhacao/
-├── jogo_adivinhacao.py   # Código principal do jogo
-├── README.md             # Este arquivo com instruções
-├── .gitignore            # Arquivos/pastas ignorados pelo Git
-└── venv/                 # Ambiente virtual Python (não vai para o GitHub)
+   - jogo_adivinhacao.py   # Código principal do jogo
+   - README.md             # Este arquivo com instruções
+   - .gitignore            # Arquivos/pastas ignorados pelo Git
+   - venv/                 # Ambiente virtual Python (não vai para o GitHub)
 
 ===============================================
 
