@@ -23,7 +23,7 @@ O objetivo é implementar um jogo simples de adivinhação em Python, praticando
 
 A pontuação é calculada assim:
 
-```text
+
 pontos = PONTUACAO_BASE - (tentativas - 1) * PENALIDADE_POR_TENTATIVA
 
 ===============================================
@@ -77,3 +77,5 @@ Nome: Gabriel Teixeira
 GitHub: @gabrielgt555
 
 Curso: MBA em Inteligência Artificial - Unifor
+
+```text
