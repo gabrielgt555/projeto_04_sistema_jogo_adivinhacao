@@ -72,7 +72,7 @@ Pontuação final: 80 pontos
 
 - **👤 Autor**
 
-Nome: Gabriel Teixeira
+Nome: José Gabriel Rodrigues Moreira
 
 GitHub: @gabrielgt555
 
